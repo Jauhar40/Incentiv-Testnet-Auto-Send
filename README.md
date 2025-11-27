@@ -35,7 +35,7 @@ Setelah register:
 
 1. Clone repository:
 ```bash
-git clone https://github.com/Jauhar40/incentiv-autosend.git
+git clone https://github.com/Jauhar40/Incentiv-Testnet-Auto-Send.git
 cd incentiv-autosend
 ```
 
